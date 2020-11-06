@@ -1,0 +1,26 @@
+body {
+    margin: 2rem;
+     background-color: lightgrey;
+     background-image: url("https://www.pexels.com/photo/blue-sky-clear-sky-cold-fog-346529/");
+  } 
+  #wrapper {
+    padding-left: 10rem;
+    padding-right: 10rem;
+      background-image: url("background.jpeg");
+  } 
+
+   th, td {
+    padding: .5rem;
+    color: indigo;
+  }
+  td:hover {
+    background-color: lightblue;
+  } 
+  h1 {
+      color: indigo;
+      text-align: center;
+      
+  }
+
+
+ 
